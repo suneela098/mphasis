@@ -2,3 +2,5 @@ this is suneela
 i am suneela
  this is devops
 https://github.com/Cohesity2022/certified-kubernetes-administrator/tree/main/Cluster%20Setup
+kubeadm join 192.168.211.46:6443 --token 1hw8ec.n3bh0o096sugwj1m \
+	--discovery-token-ca-cert-hash sha256:8e02800784a8ca69bbf49261d9ca61f3f6b727c8646ca486a6e134ff7ed80bb4 
