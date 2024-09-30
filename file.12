@@ -4,3 +4,5 @@ i am suneela
 https://github.com/Cohesity2022/certified-kubernetes-administrator/tree/main/Cluster%20Setup
 kubeadm join 192.168.211.46:6443 --token 1hw8ec.n3bh0o096sugwj1m \
 	--discovery-token-ca-cert-hash sha256:8e02800784a8ca69bbf49261d9ca61f3f6b727c8646ca486a6e134ff7ed80bb4 
+kubeadm join 192.168.211.45:6443 --token xr3q9e.lw20w5i0wgz7hd6r \
+	--discovery-token-ca-cert-hash sha256:b7dfc063a80e9c6ab1ca5cac140c1c68515e01f803d9fc04d838d8217c5924f8 
